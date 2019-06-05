@@ -12,7 +12,7 @@ require (
 	github.com/mattn/go-tty v0.0.0-20190424173100-523744f04859
 	github.com/microcosm-cc/bluemonday v1.0.2
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
-	github.com/russross/blackfriday v1.5.1
+	github.com/russross/blackfriday v1.5.2
 	github.com/sergi/go-diff v1.0.0
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20181002035957-2122de532470
 	github.com/shurcooL/go v0.0.0-20190330031554-6713ea532688
